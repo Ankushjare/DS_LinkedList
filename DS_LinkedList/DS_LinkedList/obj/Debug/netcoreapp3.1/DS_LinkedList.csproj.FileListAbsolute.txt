@@ -1,0 +1,14 @@
+C:\Users\Ankush\Desktop\Linked List\DS_LinkedList\DS_LinkedList\bin\Debug\netcoreapp3.1\DS_LinkedList.exe
+C:\Users\Ankush\Desktop\Linked List\DS_LinkedList\DS_LinkedList\bin\Debug\netcoreapp3.1\DS_LinkedList.deps.json
+C:\Users\Ankush\Desktop\Linked List\DS_LinkedList\DS_LinkedList\bin\Debug\netcoreapp3.1\DS_LinkedList.runtimeconfig.json
+C:\Users\Ankush\Desktop\Linked List\DS_LinkedList\DS_LinkedList\bin\Debug\netcoreapp3.1\DS_LinkedList.runtimeconfig.dev.json
+C:\Users\Ankush\Desktop\Linked List\DS_LinkedList\DS_LinkedList\bin\Debug\netcoreapp3.1\DS_LinkedList.dll
+C:\Users\Ankush\Desktop\Linked List\DS_LinkedList\DS_LinkedList\bin\Debug\netcoreapp3.1\DS_LinkedList.pdb
+C:\Users\Ankush\Desktop\Linked List\DS_LinkedList\DS_LinkedList\obj\Debug\netcoreapp3.1\DS_LinkedList.csproj.AssemblyReference.cache
+C:\Users\Ankush\Desktop\Linked List\DS_LinkedList\DS_LinkedList\obj\Debug\netcoreapp3.1\DS_LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankush\Desktop\Linked List\DS_LinkedList\DS_LinkedList\obj\Debug\netcoreapp3.1\DS_LinkedList.AssemblyInfoInputs.cache
+C:\Users\Ankush\Desktop\Linked List\DS_LinkedList\DS_LinkedList\obj\Debug\netcoreapp3.1\DS_LinkedList.AssemblyInfo.cs
+C:\Users\Ankush\Desktop\Linked List\DS_LinkedList\DS_LinkedList\obj\Debug\netcoreapp3.1\DS_LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Ankush\Desktop\Linked List\DS_LinkedList\DS_LinkedList\obj\Debug\netcoreapp3.1\DS_LinkedList.dll
+C:\Users\Ankush\Desktop\Linked List\DS_LinkedList\DS_LinkedList\obj\Debug\netcoreapp3.1\DS_LinkedList.pdb
+C:\Users\Ankush\Desktop\Linked List\DS_LinkedList\DS_LinkedList\obj\Debug\netcoreapp3.1\DS_LinkedList.genruntimeconfig.cache
